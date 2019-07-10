@@ -1,0 +1,990 @@
+{
+  "dealers": [
+    {
+    "dealerId": "GS0017470",
+    "legalName": "Felix Kloz GmbH",
+    "brands": [{
+      "code": "MB",
+      "name": "Mercedes-Benz"
+    }, {
+      "code": "SMT",
+      "name": "smart"
+    }],
+    "geoCoordinates": {
+      "latitude": 48.75631,
+      "longitude": 9.145711
+    },
+    "address": {
+      "street": "Burgstallstraße 95",
+      "zipCode": "70199",
+      "city": "Stuttgart",
+      "countryIsoCode": "DE"
+    },
+    "region": {
+      "region": "Baden-Württemberg",
+      "subRegion": "Stuttgart, Landeshauptstadt"
+    },
+    "communicationChannels": {
+      "phone": "+49 711 6017777",
+      "fax": "+49 711 60177785",
+      "email": "stuttgart@autohaus-kloz.de",
+      "website": "https://www.mercedes-benz-kloz.de"
+    },
+    "functions": [{
+      "brand": {
+        "code": "MB",
+        "name": "Mercedes-Benz"
+      },
+      "productGroup": {
+        "code": "PASSENGER-CAR",
+        "name": "Passenger Car"
+      },
+      "activity": {
+        "code": "SERVICE",
+        "name": "Service"
+      }
+    }, {
+      "brand": {
+        "code": "MB",
+        "name": "Mercedes-Benz"
+      },
+      "productGroup": {
+        "code": "PASSENGER-CAR",
+        "name": "Passenger Car"
+      },
+      "activity": {
+        "code": "PARTS",
+        "name": "Parts"
+      }
+    }, {
+      "brand": {
+        "code": "SMT",
+        "name": "smart"
+      },
+      "productGroup": {
+        "code": "PASSENGER-CAR",
+        "name": "Passenger Car"
+      },
+      "activity": {
+        "code": "SERVICE",
+        "name": "Service"
+      }
+    }, {
+      "brand": {
+        "code": "SMT",
+        "name": "smart"
+      },
+      "productGroup": {
+        "code": "PASSENGER-CAR",
+        "name": "Passenger Car"
+      },
+      "activity": {
+        "code": "PARTS",
+        "name": "Parts"
+      }
+    }, {
+      "brand": {
+        "code": "MB",
+        "name": "Mercedes-Benz"
+      },
+      "productGroup": {
+        "code": "PASSENGER-CAR",
+        "name": "Passenger Car"
+      },
+      "activity": {
+        "code": "USED-VEHICLES-TRADE",
+        "name": "Used Vehicles Trade"
+      }
+    }, {
+      "brand": {
+        "code": "MB",
+        "name": "Mercedes-Benz"
+      },
+      "productGroup": {
+        "code": "VAN",
+        "name": "Van"
+      },
+      "activity": {
+        "code": "USED-VEHICLES-TRADE",
+        "name": "Used Vehicles Trade"
+      }
+    }],
+    "openingHours": [{
+      "function": {
+        "brand": {
+          "code": "SMT",
+          "name": "smart"
+        },
+        "productGroup": {
+          "code": "PASSENGER-CAR",
+          "name": "Passenger Car"
+        },
+        "activity": {
+          "code": "SERVICE",
+          "name": "Service"
+        }
+      },
+      "weekdays": {
+        "WEDNESDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "07:00:00",
+            "until": "18:00:00"
+          }]
+        },
+        "MONDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "07:00:00",
+            "until": "18:00:00"
+          }]
+        },
+        "THURSDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "07:00:00",
+            "until": "18:00:00"
+          }]
+        },
+        "SUNDAY": {
+          "status": "CLOSED",
+          "periods": []
+        },
+        "FRIDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "07:00:00",
+            "until": "18:00:00"
+          }]
+        },
+        "TUESDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "07:00:00",
+            "until": "18:00:00"
+          }]
+        },
+        "SATURDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "09:00:00",
+            "until": "13:00:00"
+          }]
+        }
+      }
+    }, {
+      "function": {
+        "brand": {
+          "code": "MB",
+          "name": "Mercedes-Benz"
+        },
+        "productGroup": {
+          "code": "PASSENGER-CAR",
+          "name": "Passenger Car"
+        },
+        "activity": {
+          "code": "SERVICE",
+          "name": "Service"
+        }
+      },
+      "weekdays": {
+        "WEDNESDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "07:00:00",
+            "until": "18:00:00"
+          }]
+        },
+        "MONDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "07:00:00",
+            "until": "18:00:00"
+          }]
+        },
+        "THURSDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "07:00:00",
+            "until": "18:00:00"
+          }]
+        },
+        "SUNDAY": {
+          "status": "CLOSED",
+          "periods": []
+        },
+        "FRIDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "07:00:00",
+            "until": "18:00:00"
+          }]
+        },
+        "TUESDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "07:00:00",
+            "until": "18:00:00"
+          }]
+        },
+        "SATURDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "09:00:00",
+            "until": "13:00:00"
+          }]
+        }
+      }
+    }],
+    "distance": {
+      "value": 3.491147062943742,
+      "unit": "KM"
+    },
+    "_links": {
+      "self": {
+        "href": "https://api.mercedes-benz.com/dealer_tryout/v1/dealers/GS0017470?apikey=Tyt82ndiKG0AdH8TCqe001ROh7RsGOKB"
+      }
+    }
+  }, {
+    "dealerId": "GS0000563",
+    "legalName": "Daimler AG",
+    "nameAddition": "Niederlassung Stuttgart, vertreten durch Mercedes-Benz Vertrieb PKW GmbH",
+    "brands": [{
+      "code": "MB",
+      "name": "Mercedes-Benz"
+    }, {
+      "code": "SMT",
+      "name": "smart"
+    }],
+    "geoCoordinates": {
+      "latitude": 48.787289,
+      "longitude": 9.243655
+    },
+    "address": {
+      "street": "Mercedesstraße 137 (Einfahrt über Benzstraße, Tor 12, Geb. 131/2)",
+      "zipCode": "70327",
+      "city": "Stuttgart",
+      "countryIsoCode": "DE"
+    },
+    "region": {
+      "region": "Baden-Württemberg",
+      "subRegion": "Stuttgart, Landeshauptstadt"
+    },
+    "communicationChannels": {
+      "phone": "+49 711 2590 0",
+      "fax": "+49 711 2590 6409",
+      "email": "info.stuttgart@mercedes-benz.com",
+      "website": "https://www.mercedes-benz-stuttgart.de"
+    },
+    "functions": [{
+      "brand": {
+        "code": "MB",
+        "name": "Mercedes-Benz"
+      },
+      "productGroup": {
+        "code": "PASSENGER-CAR",
+        "name": "Passenger Car"
+      },
+      "activity": {
+        "code": "SERVICE",
+        "name": "Service"
+      }
+    }, {
+      "brand": {
+        "code": "MB",
+        "name": "Mercedes-Benz"
+      },
+      "productGroup": {
+        "code": "PASSENGER-CAR",
+        "name": "Passenger Car"
+      },
+      "activity": {
+        "code": "PARTS",
+        "name": "Parts"
+      }
+    }, {
+      "brand": {
+        "code": "SMT",
+        "name": "smart"
+      },
+      "productGroup": {
+        "code": "PASSENGER-CAR",
+        "name": "Passenger Car"
+      },
+      "activity": {
+        "code": "SERVICE",
+        "name": "Service"
+      }
+    }, {
+      "brand": {
+        "code": "SMT",
+        "name": "smart"
+      },
+      "productGroup": {
+        "code": "PASSENGER-CAR",
+        "name": "Passenger Car"
+      },
+      "activity": {
+        "code": "PARTS",
+        "name": "Parts"
+      }
+    }],
+    "openingHours": [{
+      "function": {
+        "brand": {
+          "code": "MB",
+          "name": "Mercedes-Benz"
+        },
+        "productGroup": {
+          "code": "PASSENGER-CAR",
+          "name": "Passenger Car"
+        },
+        "activity": {
+          "code": "SERVICE",
+          "name": "Service"
+        }
+      },
+      "weekdays": {
+        "WEDNESDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "07:00:00",
+            "until": "18:00:00"
+          }]
+        },
+        "MONDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "07:00:00",
+            "until": "18:00:00"
+          }]
+        },
+        "THURSDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "07:00:00",
+            "until": "18:00:00"
+          }]
+        },
+        "SUNDAY": {
+          "status": "CLOSED",
+          "periods": []
+        },
+        "FRIDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "07:00:00",
+            "until": "18:00:00"
+          }]
+        },
+        "TUESDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "07:00:00",
+            "until": "18:00:00"
+          }]
+        },
+        "SATURDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "09:00:00",
+            "until": "12:00:00"
+          }]
+        }
+      }
+    }, {
+      "function": {
+        "brand": {
+          "code": "SMT",
+          "name": "smart"
+        },
+        "productGroup": {
+          "code": "PASSENGER-CAR",
+          "name": "Passenger Car"
+        },
+        "activity": {
+          "code": "SERVICE",
+          "name": "Service"
+        }
+      },
+      "weekdays": {
+        "WEDNESDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "07:00:00",
+            "until": "18:00:00"
+          }]
+        },
+        "MONDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "07:00:00",
+            "until": "18:00:00"
+          }]
+        },
+        "THURSDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "07:00:00",
+            "until": "18:00:00"
+          }]
+        },
+        "SUNDAY": {
+          "status": "CLOSED",
+          "periods": []
+        },
+        "FRIDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "07:00:00",
+            "until": "18:00:00"
+          }]
+        },
+        "TUESDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "07:00:00",
+            "until": "18:00:00"
+          }]
+        },
+        "SATURDAY": {
+          "status": "CLOSED",
+          "periods": []
+        }
+      }
+    }],
+    "distance": {
+      "value": 4.632691266478956,
+      "unit": "KM"
+    },
+    "_links": {
+      "self": {
+        "href": "https://api.mercedes-benz.com/dealer_tryout/v1/dealers/GS0000563?apikey=Tyt82ndiKG0AdH8TCqe001ROh7RsGOKB"
+      }
+    }
+  }, {
+    "dealerId": "GS0000901",
+    "legalName": "Daimler AG",
+    "nameAddition": "Niederlassung Stuttgart, vertreten durch Mercedes-Benz Vertrieb PKW GmbH",
+    "brands": [{
+      "code": "MB",
+      "name": "Mercedes-Benz"
+    }, {
+      "code": "SMT",
+      "name": "smart"
+    }],
+    "geoCoordinates": {
+      "latitude": 48.818359,
+      "longitude": 9.175837
+    },
+    "address": {
+      "street": "Heilbronner Straße 339",
+      "zipCode": "70469",
+      "city": "Stuttgart",
+      "district": "Feuerbach",
+      "countryIsoCode": "DE"
+    },
+    "region": {
+      "region": "Baden-Württemberg",
+      "subRegion": "Stuttgart, Landeshauptstadt"
+    },
+    "communicationChannels": {
+      "phone": "+49 711 2590 0",
+      "fax": "+49 711 2590 980",
+      "email": "info.stuttgart@mercedes-benz.com",
+      "website": "https://www.mercedes-benz-stuttgart.de"
+    },
+    "functions": [{
+      "brand": {
+        "code": "MB",
+        "name": "Mercedes-Benz"
+      },
+      "productGroup": {
+        "code": "PASSENGER-CAR",
+        "name": "Passenger Car"
+      },
+      "activity": {
+        "code": "SALES",
+        "name": "Sales"
+      }
+    }, {
+      "brand": {
+        "code": "MB",
+        "name": "Mercedes-Benz"
+      },
+      "productGroup": {
+        "code": "PASSENGER-CAR",
+        "name": "Passenger Car"
+      },
+      "activity": {
+        "code": "USED-VEHICLES-TRADE",
+        "name": "Used Vehicles Trade"
+      }
+    }],
+    "openingHours": [{
+      "function": {
+        "brand": {
+          "code": "MB",
+          "name": "Mercedes-Benz"
+        },
+        "productGroup": {
+          "code": "PASSENGER-CAR",
+          "name": "Passenger Car"
+        },
+        "activity": {
+          "code": "SALES",
+          "name": "Sales"
+        }
+      },
+      "weekdays": {
+        "WEDNESDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "09:00:00",
+            "until": "19:00:00"
+          }]
+        },
+        "MONDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "09:00:00",
+            "until": "19:00:00"
+          }]
+        },
+        "THURSDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "09:00:00",
+            "until": "19:00:00"
+          }]
+        },
+        "SUNDAY": {
+          "status": "CLOSED",
+          "periods": []
+        },
+        "FRIDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "09:00:00",
+            "until": "19:00:00"
+          }]
+        },
+        "TUESDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "09:00:00",
+            "until": "19:00:00"
+          }]
+        },
+        "SATURDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "09:00:00",
+            "until": "16:00:00"
+          }]
+        }
+      }
+    }],
+    "distance": {
+      "value": 4.761010011124222,
+      "unit": "KM"
+    },
+    "_links": {
+      "self": {
+        "href": "https://api.mercedes-benz.com/dealer_tryout/v1/dealers/GS0000901?apikey=Tyt82ndiKG0AdH8TCqe001ROh7RsGOKB"
+      }
+    }
+  }, {
+    "dealerId": "GS0000900",
+    "legalName": "Daimler AG",
+    "nameAddition": "Niederlassung Stuttgart, vertreten durch Mercedes-Benz Vertrieb NFZ GmbH",
+    "brands": [{
+      "code": "MB",
+      "name": "Mercedes-Benz"
+    }],
+    "geoCoordinates": {
+      "latitude": 48.80648,
+      "longitude": 9.074478
+    },
+    "address": {
+      "street": "Siemensstraße 60",
+      "zipCode": "70839",
+      "city": "Gerlingen",
+      "countryIsoCode": "DE"
+    },
+    "region": {
+      "region": "Baden-Württemberg",
+      "subRegion": "Landkreis Ludwigsburg"
+    },
+    "communicationChannels": {
+      "phone": "+49 711 849494 30",
+      "fax": "+49 711 849494 70",
+      "email": "info.stuttgart@mercedes-benz.com",
+      "website": "https://www.mercedes-benz-stuttgart.de"
+    },
+    "functions": [{
+      "brand": {
+        "code": "MB",
+        "name": "Mercedes-Benz"
+      },
+      "productGroup": {
+        "code": "VAN",
+        "name": "Van"
+      },
+      "activity": {
+        "code": "USED-VEHICLES-TRADE",
+        "name": "Used Vehicles Trade"
+      }
+    }],
+    "openingHours": [],
+    "distance": {
+      "value": 8.653961744915167,
+      "unit": "KM"
+    },
+    "_links": {
+      "self": {
+        "href": "https://api.mercedes-benz.com/dealer_tryout/v1/dealers/GS0000900?apikey=Tyt82ndiKG0AdH8TCqe001ROh7RsGOKB"
+      }
+    }
+  }, {
+    "dealerId": "GS0000275",
+    "legalName": "Autohaus Durst GmbH",
+    "brands": [{
+      "code": "MB",
+      "name": "Mercedes-Benz"
+    }, {
+      "code": "SMT",
+      "name": "smart"
+    }],
+    "geoCoordinates": {
+      "latitude": 48.707222,
+      "longitude": 9.249278
+    },
+    "address": {
+      "street": "Siemensstraße 20",
+      "zipCode": "73760",
+      "city": "Ostfildern",
+      "district": "Scharnhausen",
+      "countryIsoCode": "DE"
+    },
+    "region": {
+      "region": "Baden-Württemberg",
+      "subRegion": "Landkreis Esslingen"
+    },
+    "communicationChannels": {
+      "phone": "+49 7158 9000 0",
+      "fax": "+49 7158 9000 44",
+      "email": "info@autohaus-durst.de",
+      "website": "https://www.durst.mercedes-benz.de"
+    },
+    "functions": [{
+      "brand": {
+        "code": "MB",
+        "name": "Mercedes-Benz"
+      },
+      "productGroup": {
+        "code": "PASSENGER-CAR",
+        "name": "Passenger Car"
+      },
+      "activity": {
+        "code": "SERVICE",
+        "name": "Service"
+      }
+    }, {
+      "brand": {
+        "code": "MB",
+        "name": "Mercedes-Benz"
+      },
+      "productGroup": {
+        "code": "PASSENGER-CAR",
+        "name": "Passenger Car"
+      },
+      "activity": {
+        "code": "USED-VEHICLES-TRADE",
+        "name": "Used Vehicles Trade"
+      }
+    }, {
+      "brand": {
+        "code": "MB",
+        "name": "Mercedes-Benz"
+      },
+      "productGroup": {
+        "code": "VAN",
+        "name": "Van"
+      },
+      "activity": {
+        "code": "SERVICE",
+        "name": "Service"
+      }
+    }, {
+      "brand": {
+        "code": "MB",
+        "name": "Mercedes-Benz"
+      },
+      "productGroup": {
+        "code": "VAN",
+        "name": "Van"
+      },
+      "activity": {
+        "code": "USED-VEHICLES-TRADE",
+        "name": "Used Vehicles Trade"
+      }
+    }, {
+      "brand": {
+        "code": "MB",
+        "name": "Mercedes-Benz"
+      },
+      "productGroup": {
+        "code": "PASSENGER-CAR",
+        "name": "Passenger Car"
+      },
+      "activity": {
+        "code": "PARTS",
+        "name": "Parts"
+      }
+    }, {
+      "brand": {
+        "code": "MB",
+        "name": "Mercedes-Benz"
+      },
+      "productGroup": {
+        "code": "VAN",
+        "name": "Van"
+      },
+      "activity": {
+        "code": "PARTS",
+        "name": "Parts"
+      }
+    }, {
+      "brand": {
+        "code": "SMT",
+        "name": "smart"
+      },
+      "productGroup": {
+        "code": "PASSENGER-CAR",
+        "name": "Passenger Car"
+      },
+      "activity": {
+        "code": "PARTS",
+        "name": "Parts"
+      }
+    }, {
+      "brand": {
+        "code": "SMT",
+        "name": "smart"
+      },
+      "productGroup": {
+        "code": "PASSENGER-CAR",
+        "name": "Passenger Car"
+      },
+      "activity": {
+        "code": "SERVICE",
+        "name": "Service"
+      }
+    }],
+    "openingHours": [{
+      "function": {
+        "brand": {
+          "code": "MB",
+          "name": "Mercedes-Benz"
+        },
+        "productGroup": {
+          "code": "PASSENGER-CAR",
+          "name": "Passenger Car"
+        },
+        "activity": {
+          "code": "SERVICE",
+          "name": "Service"
+        }
+      },
+      "weekdays": {
+        "WEDNESDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "07:30:00",
+            "until": "17:00:00"
+          }]
+        },
+        "MONDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "07:30:00",
+            "until": "17:00:00"
+          }]
+        },
+        "THURSDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "07:30:00",
+            "until": "17:00:00"
+          }]
+        },
+        "SUNDAY": {
+          "status": "CLOSED",
+          "periods": []
+        },
+        "FRIDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "07:30:00",
+            "until": "17:00:00"
+          }]
+        },
+        "TUESDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "07:30:00",
+            "until": "17:00:00"
+          }]
+        },
+        "SATURDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "09:00:00",
+            "until": "12:00:00"
+          }]
+        }
+      }
+    }, {
+      "function": {
+        "brand": {
+          "code": "SMT",
+          "name": "smart"
+        },
+        "productGroup": {
+          "code": "PASSENGER-CAR",
+          "name": "Passenger Car"
+        },
+        "activity": {
+          "code": "SERVICE",
+          "name": "Service"
+        }
+      },
+      "weekdays": {
+        "WEDNESDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "07:30:00",
+            "until": "17:00:00"
+          }]
+        },
+        "MONDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "07:30:00",
+            "until": "17:00:00"
+          }]
+        },
+        "THURSDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "07:30:00",
+            "until": "17:00:00"
+          }]
+        },
+        "SUNDAY": {
+          "status": "CLOSED",
+          "periods": []
+        },
+        "FRIDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "07:30:00",
+            "until": "17:00:00"
+          }]
+        },
+        "TUESDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "07:30:00",
+            "until": "17:00:00"
+          }]
+        },
+        "SATURDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "09:00:00",
+            "until": "12:00:00"
+          }]
+        }
+      }
+    }, {
+      "function": {
+        "brand": {
+          "code": "MB",
+          "name": "Mercedes-Benz"
+        },
+        "productGroup": {
+          "code": "VAN",
+          "name": "Van"
+        },
+        "activity": {
+          "code": "SERVICE",
+          "name": "Service"
+        }
+      },
+      "weekdays": {
+        "WEDNESDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "07:30:00",
+            "until": "17:00:00"
+          }]
+        },
+        "MONDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "07:30:00",
+            "until": "17:00:00"
+          }]
+        },
+        "THURSDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "07:30:00",
+            "until": "17:00:00"
+          }]
+        },
+        "SUNDAY": {
+          "status": "CLOSED",
+          "periods": []
+        },
+        "FRIDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "07:30:00",
+            "until": "17:00:00"
+          }]
+        },
+        "TUESDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "07:30:00",
+            "until": "17:00:00"
+          }]
+        },
+        "SATURDAY": {
+          "status": "OPEN",
+          "periods": [{
+            "from": "09:00:00",
+            "until": "12:00:00"
+          }]
+        }
+      }
+    }],
+    "distance": {
+      "value": 9.059684247516289,
+      "unit": "KM"
+    },
+    "_links": {
+      "self": {
+        "href": "https://api.mercedes-benz.com/dealer_tryout/v1/dealers/GS0000275?apikey=Tyt82ndiKG0AdH8TCqe001ROh7RsGOKB"
+      }
+    }
+  }],
+  "_links": {
+    "self": {
+      "href": "https://api.mercedes-benz.com/dealer_tryout/v1/dealers?=&=&apikey=Tyt82ndiKG0AdH8TCqe001ROh7RsGOKB"
+    }
+  }
+}
